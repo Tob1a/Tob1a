@@ -40,6 +40,16 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 
+<img align="left" alt="Python" width="26px" src="images/css.png" />
+
+<img align="left" alt="Python" width="26px" src="images/asm.png" />
+
+<img align="left" alt="Python" width="26px" src="images/r.png" />
+
+<img align="left" alt="Python" width="26px" src="images/matlab.png" />
+
+<img align="left" alt="Python" width="26px" src="images/visualbasic.png" />
+
 <br />
 <br />
 
