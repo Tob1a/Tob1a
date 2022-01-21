@@ -36,7 +36,7 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="PHP" width="26px" src="images/PHP.png" />
+<img align="left" alt="PHP" width="26px" src="images/php.png" />
 
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 
