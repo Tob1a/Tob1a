@@ -7,7 +7,6 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 :email: tobia.sacchetto@edu.unife.it
 
 
-<!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on Python and Java
 - 🌱 I’m currently learning Python and R
@@ -73,6 +72,6 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 #### Github Stats
 
 ![Tob1a's github stats](https://github-readme-stats.vercel.app/api?username=tob1a&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tob1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
