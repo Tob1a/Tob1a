@@ -8,9 +8,9 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 
 
 
-- 🔭 I’m currently working on Python and Java
+- 🔨 I’m currently working on Python and Java
 - 🌱 I’m currently learning Python and R
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git commit`
 - ⚡ Fun fact: I like doing mountaineering
 
 #### Top Technologies
