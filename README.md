@@ -57,6 +57,8 @@ I'm Tobia Sacchetto a student Developer who's like coding even outside the acade
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tob1a.Tob1a)
+<br>
+![](https://hit.yhype.me/github/profile?user_id=98024054)
 
 <details>
 <summary>
