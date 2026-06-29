@@ -4,7 +4,6 @@
 
 [![Email](https://img.shields.io/badge/email-tobia.sacchetto@edu.unife.it-007acc?style=flat-square&logo=gmail&logoColor=white)](mailto:xxxx@edu.unife.it)
 &nbsp;
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Tob1a.Tob1a)
 
 </div>
 
@@ -63,7 +62,7 @@
 
 ![Tob1a's github stats](https://github-readme-stats.vercel.app/api?username=tob1a&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tob1a&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
