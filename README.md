@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:3776AB&height=200&section=header&text=Hey,%20I'm%20xxx%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20Unife%20·%20ML%20%7C%20Satellite%20Imagery%20%7C%20Mountaineer&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:3776AB&height=200&section=header&text=Hey,%20I'm%20Tob%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20Unife%20·%20ML%20%7C%20Satellite%20Imagery%20%7C%20Mountaineer&descAlignY=58&descSize=16)
 
-[![Email](https://img.shields.io/badge/email-xxxx@edu.unife.it-007acc?style=flat-square&logo=gmail&logoColor=white)](mailto:xxxx@edu.unife.it)
+[![Email](https://img.shields.io/badge/email-tobia.sacchetto@edu.unife.it-007acc?style=flat-square&logo=gmail&logoColor=white)](mailto:xxxx@edu.unife.it)
 &nbsp;
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Tob1a.Tob1a)
 
@@ -57,14 +57,14 @@
 
 ---
 
-<details>
-<summary>📊 &nbsp;<b>GitHub Stats</b></summary>
+
+📊 &nbsp;<b>GitHub Stats</b>
 <br>
 
 ![Tob1a's github stats](https://github-readme-stats.vercel.app/api?username=tob1a&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tob1a&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
-</details>
 
 ---
 
