@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:007acc,100:3776AB&height=200&section=header&text=Hey,%20I'm%20Tob%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20Unife%20·%20ML%20%7C%20Satellite%20Imagery%20%7C%20Mountaineer&descAlignY=58&descSize=16)
 
-[![Email](https://img.shields.io/badge/email-tobia.sacchetto@edu.unife.it-007acc?style=flat-square&logo=gmail&logoColor=white)](mailto:xxxx@edu.unife.it)
+[![Email](https://img.shields.io/badge/email-tobia.sacchetto@edu.unife.it-007acc?style=flat-square&logo=gmail&logoColor=white)](mailto:tobia.sacchetto@edu.unife.it)
 &nbsp;
 
 </div>
@@ -14,7 +14,7 @@
 > I just completed my Bachelor's thesis in Computer Science, building a **machine learning pipeline to detect and count avocado plants from satellite imagery** using infrared spectral bands (NIR & SWIR).  
 > The system classifies images pixel-by-pixel via a **Random Forest**, then estimates plant counts through **linear regression** on pixel clusters — lightweight, interpretable, no deep learning needed.
 
-📄 **[Check it out →](https://github.com/Tob1a/thesis)** *(Random Forest su immagini satellitari, Unife 2025–2026)*
+📄 **[Check it out →](https://github.com/Tob1a/Bachelor-s_Thesis)** *(Random Forest su immagini satellitari, Unife 2025–2026)*
 
 ---
 
